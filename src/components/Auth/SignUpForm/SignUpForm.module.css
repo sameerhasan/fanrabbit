@@ -1,0 +1,22 @@
+.form {
+  width: 100%;
+}
+
+.flagIcon {
+  width: 19px;
+  height: 13px;
+  margin-right: 6px;
+}
+
+.navLink {
+  font-family: "Inter";
+  font-weight: 600;
+  font-size: 14px;
+  color: #0C0E15;
+  text-decoration: none;
+  
+}
+
+.logo {
+  height: 60px;
+}

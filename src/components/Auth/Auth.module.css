@@ -1,0 +1,41 @@
+.logo {
+  height: 60px;
+}
+
+.leftImg {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+}
+
+.flagIcon {
+  width: 15px;
+  height: 10px;
+  margin-right: 8px;
+}
+
+.cirle {
+  width: 30px;
+  height: 30px;
+  background-color: rgba(217, 217, 217, 1);
+  border: 1px solid rgba(0, 0, 0, 1);
+  border-radius: 50%;
+}
+
+.cirle:nth-of-type(2) {
+  position: absolute;
+  left: 20px;
+}
+
+.cirle:nth-of-type(3) {
+  position: absolute;
+  left: 40px;
+  z-index: 1;
+}
+
+.cirle:nth-of-type(4) {
+  position: absolute;
+  left: 60px;
+  z-index: 2;
+}
